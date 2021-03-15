@@ -4,3 +4,5 @@
 <p align="left">Depuis Mai 2020 je développe un outil de conception d'escape game <a href="https://rakura.fr" target="_blank">Rakura.fr</a> ⚡</p>
 
 <p align="left">Vous pouvez en découvrir plus sur mes projets 😄. Si vous avez des questions n'hésitez pas 💬</p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erygn&locale=fr&layout=compact" alt="erygn"/></p>
